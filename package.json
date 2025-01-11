@@ -1,0 +1,21 @@
+{
+  "name": "maru",
+  "displayName": "MarU",
+  "description": "Porque ando aburrido",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MarU",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MarU-color-theme.json"
+      }
+    ]
+  }
+}
